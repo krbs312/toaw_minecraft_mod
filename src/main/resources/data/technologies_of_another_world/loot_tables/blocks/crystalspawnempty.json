@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "technologies_of_another_world:blocks/crystalspawnempty",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "technologies_of_another_world:matter"
+        }
+      ]
+    }
+  ]
+}

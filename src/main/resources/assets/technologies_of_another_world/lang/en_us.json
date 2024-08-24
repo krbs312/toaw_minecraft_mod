@@ -1,0 +1,19 @@
+{
+  "item.technologies_of_another_world.flacon": "Flacon",
+  "death.attack.chto": "%1$s умер от другого мира",
+  "block.technologies_of_another_world.ench": "Ench",
+  "death.attack.chto.item": "%1$s was killed by %2$s using %3$s",
+  "item.technologies_of_another_world.matter": "Matter",
+  "item.technologies_of_another_world.stupka": "Stupka",
+  "block.technologies_of_another_world.crytalempty": "Crytalempty",
+  "item.technologies_of_another_world.bottleink": "Bottleink",
+  "item.technologies_of_another_world.pressedmetter": "Matter",
+  "block.technologies_of_another_world.crystalspawnempty": "Crystalspawnempty",
+  "item.technologies_of_another_world.flakon_2": "Flacon",
+  "enchantment.technologies_of_another_world.silc": "Спектральное касание",
+  "item.technologies_of_another_world.flakon_3": "Flacon",
+  "item.technologies_of_another_world.flakon_4": "Flacon",
+  "item.technologies_of_another_world.flakon_5": "Flacon",
+  "item_group.technologies_of_another_world.tab": "Toaw",
+  "death.attack.chto.player": "%1$s died whilst trying to escape %2$s"
+}

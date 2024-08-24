@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technologies_of_another_world:block/crystal_spawn",
+    "up": "technologies_of_another_world:block/crystal_spawn",
+    "north": "technologies_of_another_world:block/crystal_spawn",
+    "east": "technologies_of_another_world:block/crystal_spawn",
+    "south": "technologies_of_another_world:block/crystal_spawn",
+    "west": "technologies_of_another_world:block/crystal_spawn",
+    "particle": "technologies_of_another_world:block/crystal_spawn"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "technologies_of_another_world:block/crystal_empty",
+    "particle": "technologies_of_another_world:block/crystal_empty"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "technologies_of_another_world:custom/ench",
+  "textures": {
+    "all": "technologies_of_another_world:block/enchanting_table_bottom_cool",
+    "particle": "technologies_of_another_world:block/enchanting_table_bottom_cool",
+    "0": "technologies_of_another_world:block/enchanting_table_bottom_cool",
+    "1": "technologies_of_another_world:block/enchanting_table_side_cool",
+    "2": "technologies_of_another_world:block/enchanting_table_top_cool"
+  },
+  "render_type": "solid"
+}

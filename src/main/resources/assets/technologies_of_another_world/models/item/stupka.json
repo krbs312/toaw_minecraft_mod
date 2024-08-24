@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "technologies_of_another_world:item/misla_stupka"
+  }
+}
